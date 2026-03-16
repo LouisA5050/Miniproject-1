@@ -1,5 +1,6 @@
 # Miniproject-1
 Maximizing streaming Retention Through Genre Promotions
+
 This project analyzes streaming/viewing behavior data to understand patterns across genres, demographics, and engagement levels. The work was completed using Python in a Jupyter Notebook, primarily leveraging pandas for data manipulation and analysis and matplotlib for data visualization.
 
 What Was Done
